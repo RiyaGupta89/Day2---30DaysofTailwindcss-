@@ -3,7 +3,7 @@ import Image from "next/Image";
 const Hero = () => {
   return (
     
-      <div className="flex w-11/12 items-center">
+      <div className="flex w-11/12 items-center h-screen">
       <div>
         <h1 className="text-3xl md:text-4xl font-semibold text-gray-600 font-mono w-1/2 leading-10 mb-6">Get your business online in few easy steps</h1>
         <p className="text-gray-500 text-sm leading-5 w-2/3 mb-6">
