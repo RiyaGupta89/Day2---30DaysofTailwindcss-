@@ -2,6 +2,10 @@ import Head from 'next/head'
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
 import About from "./components/About"
+import Pricing from "./components/Pricing"
+import Team from "./components/Team"
+import Contact from "./components/Contact"
+import Footer from "./components/Footer"
 
 export default function Home() {
   return (
@@ -14,6 +18,10 @@ export default function Home() {
      <Navbar />
      <Hero/>
      <About />
+     <Pricing />
+     <Team />
+     <Contact />
+     <Footer />
 
      
     </div>
