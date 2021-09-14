@@ -1,5 +1,7 @@
 # Next.js + Tailwind CSS 
 
+The website contains five different sections. All of the styling is done with the help of Tailwindcss.
+
 ### Screenshot:
 
 ![day2](https://user-images.githubusercontent.com/72425181/133217768-ee3f6d7f-e932-4e54-8f61-1a595e977617.png)
