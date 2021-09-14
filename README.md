@@ -1,29 +1,9 @@
-# Next.js + Tailwind CSS Example
+# Next.js + Tailwind CSS 
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+### Screenshot:
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
-
-## Preview
-
-Preview the example live on [StackBlitz](http://stackblitz.com/):
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+![day2](https://user-images.githubusercontent.com/72425181/133217768-ee3f6d7f-e932-4e54-8f61-1a595e977617.png)
+![day3](https://user-images.githubusercontent.com/72425181/133217788-f079ce84-a09c-4393-879d-0e86c579ca26.png)
+![day4](https://user-images.githubusercontent.com/72425181/133217801-32d68982-40ce-4be5-a5c3-83b398da5bc5.png)
+![day5](https://user-images.githubusercontent.com/72425181/133217813-f8db0e2b-dfc9-4579-9c34-3d8d49d7deb8.png)
+![day6](https://user-images.githubusercontent.com/72425181/133217821-1568156a-7d01-4bec-ae4f-82d35abbb47f.png)
